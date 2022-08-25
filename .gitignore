@@ -29,5 +29,6 @@ src/*.cc
 src/*.h
 docs
 
+#josh
 # vignette
 vignettes/*_cache
